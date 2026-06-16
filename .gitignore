@@ -1,0 +1,9 @@
+.env
+*.npy
+*.index
+*.pkl
+__pycache__
+*.pyc
+lyrical.ipynb
+data
+*.csv

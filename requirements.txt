@@ -1,0 +1,9 @@
+pandas
+numpy
+faiss
+kaggle
+scikit-learn
+streamlit
+fastapi
+pydantic
+gdown
